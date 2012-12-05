@@ -130,6 +130,10 @@
                 <source>list.label_email</source>
                 <target>E-Mail-Adresse</target>
             </trans-unit>
+            <trans-unit id="list.label_groups">
+                <source>list.label_groups</source>
+                <target>Gruppen</target>
+            </trans-unit>
             <trans-unit id="list.label_locked">
                 <source>list.label_locked</source>
                 <target>Gesperrt</target>
@@ -309,6 +313,14 @@
             <trans-unit id="form.label_date_of_birth">
                 <source>form.label_date_of_birth</source>
                 <target>Date of birth</target>
+            </trans-unit>
+            <trans-unit id="male">
+                <source>male</source>
+                <target>männlich</target>
+            </trans-unit>
+            <trans-unit id="female">
+                <source>female</source>
+                <target>weiblich</target>
             </trans-unit>
         </body>
     </file>
